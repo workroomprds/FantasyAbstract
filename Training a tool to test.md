@@ -9,6 +9,6 @@ In this track talk, you’ll see how I set up a training environment for testing
 * identify potentially-interesting changes in code and configuration,
 * report problems more easily and more clearly. 
 
-I’ll also describe my false starts and dead ends, and give example of ways that my AIs misled me. I’ll conclude by outlining what makes a testing task well-suited to this approach, and outline my vision of the future of testing with this next generation of tools.
+I’ll also describe my false starts and dead ends, and give example of ways that my AIs misled me. I’ll conclude by outlining what makes a testing task well-suited to this approach, and show you my vision of the future of testing with this next generation of tools.
 
 Get ready to start training up your own hunting dogs of testing.
