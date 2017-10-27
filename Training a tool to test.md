@@ -1,4 +1,4 @@
-## Training a tool to test
+## Training a Tool to Test
 
 AIs can help you test!
 
